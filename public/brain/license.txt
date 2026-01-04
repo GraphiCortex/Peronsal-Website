@@ -1,0 +1,11 @@
+Model Information:
+* title:	Olfactory Bulb Mitral-Tufted-Granule Network
+* source:	https://sketchfab.com/3d-models/olfactory-bulb-mitral-tufted-granule-network-fffdafc7ef2f4e0ab7d006daf3517da7
+* author:	JustasB (https://sketchfab.com/justasb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Olfactory Bulb Mitral-Tufted-Granule Network" (https://sketchfab.com/3d-models/olfactory-bulb-mitral-tufted-granule-network-fffdafc7ef2f4e0ab7d006daf3517da7) by JustasB (https://sketchfab.com/justasb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
