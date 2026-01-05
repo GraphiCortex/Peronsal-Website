@@ -47,7 +47,7 @@
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          I’m a student at the American University of Beirut, double majoring in mathematics and biology, while also minoring in computational science. Although most of my work is technical and involves building and testing models or analyses on biological and cognitive data, I also tend to spend time thinking about what this work actually shows, what remains unclear, and where its limits lie. This, alongside with more in-depth exposure to other fields, has led me to pursue more seriously mathematics, philosophy, and literature. This site collects some of that work and the thinking that accompanies it.        </motion.p>
+          I’m a student at the American University of Beirut, double majoring in Mathematics and Biology, while also minoring in Computational Science. Although most of my work is technical and involves building and testing models or analyses on biological and cognitive data, I also tend to spend time thinking about what this work actually shows, what remains unclear, and where its limits lie. This, alongside more in-depth exposure to other fields, has led me to pursue more seriously Mathematics, Philosophy, and Literature. This site collects some of that work and the thinking that accompanies it.        </motion.p>
 
         <div className='mt-20 flex flex-wrap gap-10'>
           {services.map((service, index) => (
