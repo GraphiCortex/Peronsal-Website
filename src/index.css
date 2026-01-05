@@ -202,3 +202,68 @@
       -2.6em 0em 0 0em rgba(255, 255, 255, 0.7), -1.8em -1.8em 0 0em #ffffff;
   }
 }
+/* ---- Interests orbit ---- */
+
+.interests-orbit {
+  position: absolute;
+  inset: 0;
+  animation: interests-orbit-spin 28s linear infinite;
+  will-change: transform;
+}
+
+.interests-orbit-item {
+  position: absolute;
+  left: var(--orbitCx);
+  top: var(--orbitCy);
+  transform:
+    translate(-50%, -50%)
+    rotate(calc((360deg / var(--n)) * var(--i)))
+    translateX(var(--orbitRadius));
+  transform-origin: center;
+}
+
+
+.interests-acrylic {
+  width: var(--circleSize);
+  height: var(--circleSize);
+  border-radius: 9999px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  transition: transform 200ms ease, background 200ms ease, border 200ms ease;
+}
+
+.interests-acrylic-text {
+  padding: 0 14px;
+  line-height: 1.15;
+  font-size: 14px;
+  color: rgba(243, 243, 243, 0.92);
+}
+
+.interests-acrylic:hover {
+  transform: scale(1.05);
+  background: rgba(255, 255, 255, 0.09);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+}
+
+@keyframes interests-orbit-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Responsive text tweak */
+@media (max-width: 700px) {
+  .interests-acrylic-text { font-size: 12px; }
+}
