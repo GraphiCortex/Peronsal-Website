@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antique Book with Quill and Key
+* source:	https://sketchfab.com/3d-models/antique-book-with-quill-and-key-6be47f12c73342ef9232e29f71e0fa76
+* author:	E.Dejnes (https://sketchfab.com/E.Dejnes)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antique Book with Quill and Key" (https://sketchfab.com/3d-models/antique-book-with-quill-and-key-6be47f12c73342ef9232e29f71e0fa76) by E.Dejnes (https://sketchfab.com/E.Dejnes) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

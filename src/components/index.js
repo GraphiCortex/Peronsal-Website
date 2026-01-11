@@ -7,6 +7,8 @@ import Experience from './Experience';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
+import BookPortal from './BookPortal';
+import LazySection from './LazySection';
 
 export {
   Hero,
@@ -17,8 +19,10 @@ export {
   Works,
   Feedbacks,
   Contact,
+  BookPortal,
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
-  StarsCanvas
+  StarsCanvas,
+  LazySection,
 }

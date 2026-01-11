@@ -45,8 +45,8 @@ export const navLinks = [
     title: "Research",
   },
   {
-    id: "contact",
-    title: "Contact",
+    id: "bookportal",
+    title: "Contact/CV",
   },
 ];
 
